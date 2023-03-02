@@ -1,2 +1,2 @@
  # all files with ~ should be avoided
- ~all
+ "~"  all
